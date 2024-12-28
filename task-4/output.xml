@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NeuralNetwork><layer><neuron>[0.34 0.1 0.3]</neuron><neuron>[0.4 0.5 0.6]</neuron><neuron>[0.7 0.8 0.9]</neuron><neuron>[0.1 0.11 0.12]</neuron></layer><layer><neuron>[0.1 0.2 0.3 0.4]</neuron><neuron>[0.5 0.6 0.7 0.8]</neuron></layer><layer><neuron>[0.9 0.7]</neuron><neuron>[0.5]</neuron></layer></NeuralNetwork>
